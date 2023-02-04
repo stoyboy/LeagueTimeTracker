@@ -110,7 +110,7 @@ export default function Home() {
             priority
           />
           <span>League Time Tracker</span>
-          <Link href={'https://google.com'}>
+          <Link href={'https://github.com/stoyboy/leaguetimetracker'}>
             <svg
               xmlns='http://www.w3.org/2000/svg'
               xmlnsXlink='http://www.w3.org/1999/xlink'
