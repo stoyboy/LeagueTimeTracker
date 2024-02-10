@@ -11,7 +11,6 @@
     <br/>
     <br/>
     <a href="https://github.com/stoyboy/leaguetimetracker">View Demo</a>
-    .
   </p>
 </p>
 
